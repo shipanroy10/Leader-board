@@ -1,0 +1,62 @@
+
+body{background: #286b88;}
+
+
+.navv{margin-bottom: 50px;}
+.img1{width: 42px;}
+.bg{
+
+background-color:#1c313a
+
+}
+
+.img2{width: 56px;}
+.row{margin-top: 30px;}
+
+.container-fluid{margin-bottom: 100px;}
+.container{
+margin-bottom: 30px;
+background-color: #562EFF;
+
+background-color: #ffffff;
+border-radius: 20px;
+}
+
+.img3{width: 177px;}
+.pp{font-family: Poppins;font-size: 20px;}
+.img4{width: 224px;}
+.box{
+
+    box-shadow: 0px 5.34229px 13.3557px rgba(0, 0, 0, 0.05);
+
+border-radius: 10px;
+}
+
+.img5{width: 14.6913px;
+    
+    position: relative;
+    right: 15px
+    
+    ;}
+
+
+.lastp{position: relative;
+    left: 10px;top: 10px
+    
+    ;}
+
+    .lastpp{position: relative
+        ;top: 8px;
+        color: #FF4A60
+        
+        ;}
+        .dv{
+
+position: relative;
+right: 20px;
+
+
+        }
+
+
+        .hgt{height: 362px;}
