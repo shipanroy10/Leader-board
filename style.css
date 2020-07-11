@@ -1,9 +1,12 @@
 
-body{background: #286b88;}
+body{background: #6dcbce;}
 
 
 .navv{margin-bottom: 50px;}
-.img1{width: 42px;}
+.img1{width: 42px
+    ;padding-left: 5px
+    
+    ;}
 .bg{
 
 background-color:#1c313a
@@ -16,47 +19,51 @@ background-color:#1c313a
 .container-fluid{margin-bottom: 100px;}
 .container{
 margin-bottom: 30px;
-background-color: #562EFF;
+padding-bottom: 20px;
 
 background-color: #ffffff;
 border-radius: 20px;
 }
-
+.bg2{background: #286b88;}
 .img3{width: 177px;}
-.pp{font-family: Poppins;font-size: 20px;}
-.img4{width: 224px;}
-.box{
+.pp{font-family: Poppins;font-size: 20px;color: white;}
 
-    box-shadow: 0px 5.34229px 13.3557px rgba(0, 0, 0, 0.05);
+.card{
 
-border-radius: 10px;
+    box-shadow: 0px 0px 15px -4px black;
+
+border-radius: 20px;
 }
 
 .img5{width: 14.6913px;
     
     position: relative;
-    right: 15px
+  
     
     ;}
 
 
-.lastp{position: relative;
-    left: 10px;top: 10px
-    
-    ;}
+  
 
-    .lastpp{position: relative
-        ;top: 8px;
-        color: #FF4A60
-        
-        ;}
-        .dv{
-
+section{}
+.red{color: #FF4A60;}
+time{background-color:#286b88; padding: 10px;color:#FF4A60 ; border-radius: 20px;
 position: relative;
-right: 20px;
-
-
-        }
-
-
-        .hgt{height: 362px;}
+left: 20px;
+}
+time:hover{background-color: thistle;color: tomato;}
+h2:hover a{color:thistle ;}
+.navbar-nav {position: relative;
+    
+    right: 80px;
+    
+    
+    ;}
+    .navbar-brand{position: relative;
+    
+    left: 80px;
+    
+  
+    
+    }
+    .nav-item{padding-right: 20px;}
